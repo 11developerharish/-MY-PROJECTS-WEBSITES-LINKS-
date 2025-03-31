@@ -18,7 +18,12 @@ HELLO EVERYONE "THIS IS MY PROJECTS" AND I ATTACHED MY "PROJECTS LINKS" IN THIS 
 
 - 🌐 **COFFEE BLEND WEB:** (  https://coffee-blend-website.netlify.app/   )
 
-- 🌐 **DISNEY+ CLOSE WEB:** (  HTTPS://disney-clone-web-one.vercel.app   )
+- 🌐 **DISNEY+ CLOSE WEB:** (  https://disney-clone-web-one.vercel.app   )
+
+- 🌐 **WATCHES WEB:** ( https://watches-web-developerhari.vercel.app )
+   
+
+
 
 
 
