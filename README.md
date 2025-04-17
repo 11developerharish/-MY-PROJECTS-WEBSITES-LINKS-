@@ -28,7 +28,9 @@ HELLO EVERYONE "THIS IS MY PROJECTS" AND I ATTACHED MY "PROJECTS LINKS" IN THIS 
 
 - 🌐 **RESTAURANT WEB:** (https://tastee-kitchen.netlify.app/) 
 
-- 🌐 **NEWS WEB:** (https://news-web-developer-hari.vercel.app) 
+- 🌐 **NEWS WEB:** (https://news-web-developer-hari.vercel.app)
+
+- 🌐 **NEWS WEB 2:** (https://news-web-by-developer-hari.vercel.app)
 
 
 
